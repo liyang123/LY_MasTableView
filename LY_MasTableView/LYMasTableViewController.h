@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LYMasTableViewController.h
 //  LY_MasTableView
 //
 //  Created by ly on 16/3/4.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LYMasTableViewController : UITableViewController
 
 @end
-
